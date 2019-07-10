@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7a8f27c-a603-4b6b-ad18-50000c4aaba6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/travel/src/pages/home/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/travel/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/travel/src/pages/home/components/Swiper.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/travel/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/src/assets/styles/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/assets/styles/iconfont.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/assets/styles/iconfont/iconfont.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel/src/pages/home/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/travel/src/pages/home/Home.vue" afterDir="false" />
     </list>
@@ -37,8 +33,8 @@
           <entry key="css" value="3" />
           <entry key="html" value="1" />
           <entry key="js" value="4" />
-          <entry key="styl" value="1" />
-          <entry key="vue" value="4" />
+          <entry key="styl" value="2" />
+          <entry key="vue" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -46,8 +42,8 @@
           <entry key="CSS" value="3" />
           <entry key="HTML" value="1" />
           <entry key="JavaScript" value="4" />
-          <entry key="Stylus" value="1" />
-          <entry key="Vue.js" value="4" />
+          <entry key="Stylus" value="2" />
+          <entry key="Vue.js" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -58,30 +54,48 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="89" />
-          <entry key="js" value="150" />
-          <entry key="vue" value="668" />
+          <entry key="js" value="232" />
+          <entry key="vue" value="882" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="89" />
-          <entry key="JavaScript" value="150" />
-          <entry key="Vue.js" value="668" />
+          <entry key="JavaScript" value="232" />
+          <entry key="Vue.js" value="882" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="116">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#140#161#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/travel/src/pages/home/components/Swiper.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/travel/src/assets/styles/varibles.styl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -98,35 +112,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/travel/src/pages/home/Home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travel/src/pages/home/components/Header.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travel/build/webpack.base.conf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/travel/src/assets/styles/varibles.styl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-end-column="8" />
+            <state relative-caret-position="66">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <folding>
+                <element signature="e#61#105#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -155,11 +145,12 @@
         <option value="$PROJECT_DIR$/travel/src/components/HelloWorld.vue" />
         <option value="$PROJECT_DIR$/travel/src/router/index.js" />
         <option value="$PROJECT_DIR$/travel/index.html" />
-        <option value="$PROJECT_DIR$/travel/src/pages/home/Home.vue" />
         <option value="$PROJECT_DIR$/travel/src/assets/styles/iconfont.css" />
         <option value="$PROJECT_DIR$/travel/build/webpack.base.conf.js" />
         <option value="$PROJECT_DIR$/travel/src/pages/home/components/Header.vue" />
         <option value="$PROJECT_DIR$/travel/src/main.js" />
+        <option value="$PROJECT_DIR$/travel/src/pages/home/Home.vue" />
+        <option value="$PROJECT_DIR$/travel/src/pages/home/components/Swiper.vue" />
       </list>
     </option>
   </component>
@@ -247,6 +238,15 @@
               <item name="Travel1" type="462c0819:PsiDirectoryNode" />
               <item name="travel" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Travel1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travel1" type="462c0819:PsiDirectoryNode" />
+              <item name="travel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -267,6 +267,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\springboot-coding\Travel1\travel\src\pages\home\components" />
       <recent name="E:\springboot-coding\Travel1\travel\src\assets\styles" />
       <recent name="E:\springboot-coding\Travel1\travel\src\assets" />
     </key>
@@ -295,17 +296,36 @@
       <updated>1562590284973</updated>
       <workItem from="1562590287017" duration="10713000" />
       <workItem from="1562754984144" duration="2162000" />
-      <workItem from="1562763238963" duration="1274000" />
+      <workItem from="1562763238963" duration="6217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14149000" />
+    <option name="totallyTimeSpent" value="19092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24962631" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49925262" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007474" side_tool="true" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962631" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -323,7 +343,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -352,6 +372,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -366,20 +389,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travel/src/pages/home/Home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/travel/src/assets/styles/varibles.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -400,11 +409,35 @@
     <entry file="file://$PROJECT_DIR$/travel/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#140#161#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/pages/home/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="e#61#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/assets/styles/varibles.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/travel/src/pages/home/components/Swiper.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>
